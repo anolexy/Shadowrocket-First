@@ -9,7 +9,7 @@
 > > 本仓中的所有数据均收集自互联网公开信息，不代表我们支持或使用这些服务。请通过合法的互联网出入口信道访问或使用，并确保在使用过程中符合当地法律法规。若您是相关索引的原作者或权利人，且不希望内容被引用，可点击 [此处](https://github.com/LOWERTOP/Shadowrocket-First/issues/new?title=%E6%9D%83%E5%88%A9%E8%A6%81%E6%B1%82&body=%E8%A6%81%E6%B1%82%E7%AE%80%E8%BF%B0%EF%BC%9A&labels=invalid) 要求剔除
 
 #### [项目目录](#项目目录)
-> * **[Shadow Store 模块中心](#shadowstore-模块中心)**
+> * **[Shadow Store 资源中心](#shadowstore-资源中心)**
 > * **[Shadowrocket 本仓文件](#shadowrocket-本仓文件)**
 > * **[Shadowrocket 社区文件](#shadowrocket-社区文件)**
 > * **[Shadowrocket 配色文件](#shadowrocket-配色文件)**
@@ -20,13 +20,15 @@
 
 ------
 
-# [ShadowStore 模块中心](#shadowstore-模块中心)
+# [ShadowStore 资源中心](#shadowstore-资源中心)
 
-> [ShadowStore](https://github.com/LOWERTOP/ShadowStore) 是一个专为 Shadowrocket 打造的开放资源平台，提供 **资源索引**、**资源检索**、**一键安装**、**一键复制** 等功能，集中收录和整理公开资源。目前已收录超过 1000 款模块及其他多种资源，支持添加网页快捷方式至桌面，并提供应用图标显示，为 Shadowrocket 用户提供更加便捷的资源发现与使用体验
+> [<img src="https://raw.githubusercontent.com/LOWERTOP/Shadowrocket-First/refs/heads/main/img/ShadowStore_ScreenShot.png" width="100%">](https://shadowstore.dpdns.org/ "访问页面")
+> 
+> **[ShadowStore](https://github.com/LOWERTOP/ShadowStore)** 是一个专为 Shadowrocket 打造的开源社区资源聚合检索平台，仓库地址是：[ShadowStore](https://github.com/LOWERTOP/ShadowStore)，发布页地址是：[shadowstore.dpdns.org](https://shadowstore.dpdns.org/)。发布页提供 **资源索引**、**资源检索**、**一键安装**、**一键复制** 等功能，集中收录和整理公开资源，目前已收录超过 1000 款模块及其他资源。网页支持添加快捷方式至主屏幕，并提供应用图标显示，为用户提供更加便捷、沉浸的使用体验
 > 
 > 相关资源均直接引用自原始开源仓库。特别鸣谢 **[奶思](https://github.com/fmz200)**、**[zirawell](https://github.com/zirawell)**、**[iab0x00](https://github.com/iab0x00)** 等开源作者
 > 
-> [![访问页面 模块中心](https://img.shields.io/static/v1?label=访问页面&message=模块中心&color=grey&logo=safari&logoColor=white&labelColor=%23E34F26&messageColor=white)](https://shadowstore.dpdns.org/ "访问相应地址")
+> [![访问页面 资源中心](https://img.shields.io/static/v1?label=访问页面&message=资源中心&color=grey&logo=safari&logoColor=white&labelColor=%23E34F26&messageColor=white)](https://shadowstore.dpdns.org/ "访问相应地址")
 
 ------
 
@@ -155,7 +157,13 @@
 
 > [!NOTE]
 > 
-> 本章主要是收集自社区有一定规模的公开文件，相关资源本仓均为直接引用原版地址且标注有作者或来源，其效果及有效性请以实际为准。
+> 本章主要是收集自社区有一定规模的公开文件，相关资源本仓均为直接引用原版地址且标注有作者或来源，其效果及有效性请以实际为准
+> 
+> > 本仓库接受 [Pull Request（PR）](https://github.com/LOWERTOP/Shadowrocket-First/pulls)
+> >
+> > 为确保发布页作者信息能够准确识别，并便于仓库规范化管理，仅接受将新增文件存放于 **[main/PR](https://github.com/LOWERTOP/Shadowrocket-First/tree/main/PR)** 路径下 **与提交者同名** 的子文件夹内
+> >
+> > **请确保您对所提交的文件拥有合法、完整的相关权利，或已获得合法授权。本仓库不对提交者上传的文件及其相关权利承担任何责任**
 
 ### [使用手册](#使用手册)
 
@@ -293,13 +301,31 @@
 > >   
 > > [![安装模块 流量查询](https://img.shields.io/static/v1?label=安装模块&message=流量查询&color=grey&logo=educative&logoColor=white&labelColor=blue&messageColor=white)](https://lowertop.github.io/Shadowrocket-First/redirect.html?url=shadowrocket://install?module=https://raw.githubusercontent.com/huskydsb/Shadowrocket/main/Sgmodule/%E6%9C%BA%E5%9C%BA%E6%B5%81%E9%87%8F%E6%9F%A5%E8%AF%A2.module "一键安装本模块")
 >
+> **[高德地图去广告](https://raw.githubusercontent.com/LOWERTOP/Shadowrocket-First/refs/heads/main/PR/XiangwanGuan/%E9%AB%98%E5%BE%B7%E5%9C%B0%E5%9B%BE.sgmodule)**
+> 
+> > 本模块是 [向晚](https://github.com/XiangwanGuan) 维护的原生去广告模块，由作者推送至本仓库
+> >
+> > [![安装模块 高德地图](https://img.shields.io/static/v1?label=安装模块&message=高德地图&color=grey&logo=educative&logoColor=white&labelColor=blue&messageColor=white)](https://lowertop.github.io/Shadowrocket-First/redirect.html?url=shadowrocket://install?module=https://raw.githubusercontent.com/LOWERTOP/Shadowrocket-First/refs/heads/main/PR/XiangwanGuan/%E9%AB%98%E5%BE%B7%E5%9C%B0%E5%9B%BE.sgmodule "一键安装本模块")
+>  
+> **[一汽大众去广告](https://raw.githubusercontent.com/LOWERTOP/Shadowrocket-First/refs/heads/main/PR/XiangwanGuan/%E4%B8%80%E6%B1%BD%E5%A4%A7%E4%BC%97.sgmodule)**
+> 
+> > 本模块是 [向晚](https://github.com/XiangwanGuan) 维护的原生去广告模块，由作者推送至本仓库
+> >
+> > [![安装模块 一汽大众](https://img.shields.io/static/v1?label=安装模块&message=一汽大众&color=grey&logo=educative&logoColor=white&labelColor=blue&messageColor=white)](https://lowertop.github.io/Shadowrocket-First/redirect.html?url=shadowrocket://install?module=https://raw.githubusercontent.com/LOWERTOP/Shadowrocket-First/refs/heads/main/PR/XiangwanGuan/%E4%B8%80%E6%B1%BD%E5%A4%A7%E4%BC%97.sgmodule "一键安装本模块")
+>  
+> **[彩云天气去广告](https://raw.githubusercontent.com/LOWERTOP/Shadowrocket-First/refs/heads/main/PR/XiangwanGuan/%E5%BD%A9%E4%BA%91%E5%A4%A9%E6%B0%94.sgmodule)**
+> 
+> > 本模块是 [向晚](https://github.com/XiangwanGuan) 维护的原生去广告模块，由作者推送至本仓库
+> >
+> > [![安装模块 彩云天气](https://img.shields.io/static/v1?label=安装模块&message=彩云天气&color=grey&logo=educative&logoColor=white&labelColor=blue&messageColor=white)](https://lowertop.github.io/Shadowrocket-First/redirect.html?url=shadowrocket://install?module=https://raw.githubusercontent.com/LOWERTOP/Shadowrocket-First/refs/heads/main/PR/XiangwanGuan/%E5%BD%A9%E4%BA%91%E5%A4%A9%E6%B0%94.sgmodule "一键安装本模块")
+>  
 > **[更多资源](#模块收集)**
 > 
 > > [iab0x00](https://github.com/iab0x00) 创建并维护的小火箭原生模块仓库，包含 YouTube、滴滴出行、酷安、小红书等相关模块
 > >
 > > [![社区资源 iab0x00](https://img.shields.io/static/v1?label=社区资源&message=iab0x00&color=grey&logo=safari&logoColor=white&labelColor=blue&messageColor=white)](https://github.com/iab0x00/ProxyRules "点击查看")
 > >
-> > [Kelee 可莉](https://github.com/ddgksf2013/ddgksf2013) 维护的插件资源，安装 [插件中心专用转换器](https://raw.githubusercontent.com/iab0x00/ProxyRules/main/Rewrite/Plugin2Rocket.srmodule) 后可用于小火箭
+> > [可莉](https://github.com/luestr) 维护的资源，安装 [插件中心专用转换器](https://raw.githubusercontent.com/iab0x00/ProxyRules/main/Rewrite/Plugin2Rocket.srmodule) 后可用于小火箭
 > >
 > > [![社区资源 Kelee](https://img.shields.io/static/v1?label=社区资源&message=Kelee&color=grey&logo=safari&logoColor=white&labelColor=blue&messageColor=white)](https://hub.kelee.one/ "点击查看")
 > > 
